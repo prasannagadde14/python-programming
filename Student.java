@@ -1,4 +1,4 @@
-class Student
+class Student123
 {
 	int rollno;
 	string name;
